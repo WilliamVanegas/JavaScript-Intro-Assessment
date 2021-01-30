@@ -1,0 +1,9 @@
+//
+var firstName = William;
+var lastName = Vanegas;
+var age = 18;
+/*
+My name is (firstName lastName)
+I am (age)
+I am having a lot of fun doing coding and being able to find out how coding actually works. its very fun to do and i hope we can find out more and be able to do much more.
+*/
